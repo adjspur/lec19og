@@ -1,0 +1,17 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: 3px solid black;
+}
+
+
+.special {
+    font-size:4em;
+    border:15px solid blue;
+    border-radius:30px;
+    background-color:#bada55;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
